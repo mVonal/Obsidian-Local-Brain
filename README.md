@@ -96,26 +96,8 @@ Linux/Mac: Use crontab -e -> 0 6 * * * /usr/bin/python3 /path/to/daily_brain.py.
 
 The script generates a file like Daily Quiz - 2025-11-28.md inside your vault:
 
-### 🛡️ Question 1
+<img width="730" height="880" alt="image" src="https://github.com/user-attachments/assets/3016d192-f8de-4918-ab9b-f40c08d365db" />
 
-$$!QUESTION$$
-
- What flag is used in Nmap for a UDP scan?
-A) -sT
-B) -sU
-C) -sS
-D) -Pn
-
-$$!SUCCESS$$
-
-- 🔑 Click to Reveal Answer
-✅ Correct Answer: B) -sU
-📝 Explanation: The -sU flag specifically targets UDP ports.
-🔗 Source: 
-
-$$\[Nmap Scanning$$
-
-]
 
 🛡️ Security Note
 
